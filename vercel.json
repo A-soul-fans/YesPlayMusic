@@ -1,7 +1,0 @@
-{
-   “重写”：[
-    {
-      “源”：“ /api/:match* ”，
-       “目的地”：“ https://yes-play-music-ckqdgpszs-a-soul-fans.vercel.app/:match* ”
-    }
-  ]
